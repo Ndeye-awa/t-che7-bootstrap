@@ -14,7 +14,6 @@ body{
 }
 
 /* navbar start */
-
 .title p, h1{
     text-align: center;
 }
@@ -43,8 +42,8 @@ body{
     font-weight: 600;
     margin: 20px;
 }
-
 /* navbar end */
+
 
 /* secion home start  */
 /* section banner start  */
@@ -134,9 +133,11 @@ body{
     font-size: 34px;
     font-weight: 100;
 }
+/* section banner end  */
+/* section home end  */
+
 
 /* section about start  */
-
 .container_about{
     margin-bottom: 250px;
 }
@@ -166,24 +167,69 @@ body{
 .about_section_row .paragraph3{
     line-height: 15px;
 }
-
 /* section about end  */
 
 
+/* section product start  */
+
+.page_product{
+    margin-top: 150px;
+    margin-bottom: 250px;
+}
+
+.page_product .product_title{
+    background-color: #F6E1C5;
+    padding: 40px;
+    top: -10%;
+}
+
+.product_title p{
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.product_title h1{
+    font-weight: 500;
+}
+
+.page_product .product_img{
+    width: 80%;
+    margin: auto;
+}
+
+.page_product .product_description{
+    background-color: #F6E1C5;
+    font-weight: 600;
+    padding: 40px;
+    top: 85%;
+}
+/* section product end  */
+
+/* section store start  */
+
+.section_store{
+    background: #A5342BB0;
+    padding: 50px;
+    font-family: "Merienda"
+}
+
+.section_store .section_week{
+    background-color: #F6E1C5;
+}
+
+.card-footer .p1{
+    font-size: 10px;
+}
+
+.bordure{
+    border: 2px solid #CD5449;
+    padding: 8px;
+}
+
+/* section store end  */
 
 /* section footer start  */
-
 .section_footer{
     background: #311919;
 }
-
 /* section footer end  */
-
-
-/* section banner end  */
-/* section home end  */
-
-
-/* section about start  */
-
-/* section about end  */
